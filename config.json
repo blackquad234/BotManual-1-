@@ -1,0 +1,21 @@
+{
+    "client": {
+        "token": "MTE0MDYxNDA5MzM2NDAyMzM2OA.GxTYLh.je5UuptDrhzS-nq_x__8RNcTtliJKgnAHYGBuE", 
+        "embed": "#2f3136",
+        "username": "king store",
+        "avatar": "https://images-ext-2.discordapp.net/external/GvdohoQvnWiR2tXEKQp-9FAQBBYEhbd3AeGYr5--vx8/%3Fsize%3D2048/https/cdn.discordapp.com/icons/1135596503340159078/07c0918a380079d18767b0e5ca971653.png",
+        "channel_bugs": "1074874338030915584",
+        "owner_id": "1115248148600848459"
+    },
+    "sales": {
+        "checkout_category_id": "1142670599215382548", 
+        "channel_sales": "1142888978853408901",
+        "role_customer": "1142943383770366122",
+        "role_permission_approved": "1140600495594016858",
+        "banco": {
+            "qrcode": "https://cdn.discordapp.com/attachments/1139361907812335708/1142809641332519023/IMG_20230820_101719.jpg", 
+            "ChaveAleatória": "78d0ceef-3793-405a-90d0-86da75562c55"
+        }
+    }
+}
+   

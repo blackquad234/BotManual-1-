@@ -1,0 +1,28 @@
+{
+    "pedidostotal": 10,
+    "gastostotal": 15.5,
+    "22/8/2023": {
+        "pedidos": 8,
+        "compras": 12
+    },
+    "1115248148600848459": {
+        "compras": 7.5,
+        "pedidos": 6
+    },
+    "1083526293003448330": {
+        "compras": 2,
+        "pedidos": 2
+    },
+    "1065744490675056670": {
+        "compras": 3,
+        "pedidos": 1
+    },
+    "23/8/2023": {
+        "pedidos": 2,
+        "compras": 3.5
+    },
+    "1083510123739234385": {
+        "compras": 3,
+        "pedidos": 1
+    }
+}
